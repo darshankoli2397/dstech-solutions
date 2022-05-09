@@ -10,7 +10,7 @@ const Navbar = () => {
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
               <div className="container-fluid">
                 <NavLink className="navbar-brand" to="/">
-                  ThapaTechnical
+                  DS-Tech Solutions
                 </NavLink>
                 <button
                   className="navbar-toggler"
@@ -66,6 +66,16 @@ const Navbar = () => {
                         to="/contact"
                       >
                         Contact
+                      </NavLink>
+                    </li>
+
+                    <li className="nav-item">
+                      <NavLink
+                        activeClassName="menu_active"
+                        className="nav-link"
+                        to="/Crrear"
+                      >
+                        Career
                       </NavLink>
                     </li>
                   </ul>
