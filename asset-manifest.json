@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/dstech-solutions/static/css/main.e81a1b15.chunk.css",
-    "main.js": "/dstech-solutions/static/js/main.92e857f3.chunk.js",
-    "main.js.map": "/dstech-solutions/static/js/main.92e857f3.chunk.js.map",
+    "main.js": "/dstech-solutions/static/js/main.01335468.chunk.js",
+    "main.js.map": "/dstech-solutions/static/js/main.01335468.chunk.js.map",
     "runtime-main.js": "/dstech-solutions/static/js/runtime-main.14aa7398.js",
     "runtime-main.js.map": "/dstech-solutions/static/js/runtime-main.14aa7398.js.map",
     "static/css/2.f18effba.chunk.css": "/dstech-solutions/static/css/2.f18effba.chunk.css",
-    "static/js/2.d88e11dd.chunk.js": "/dstech-solutions/static/js/2.d88e11dd.chunk.js",
-    "static/js/2.d88e11dd.chunk.js.map": "/dstech-solutions/static/js/2.d88e11dd.chunk.js.map",
+    "static/js/2.ee85d012.chunk.js": "/dstech-solutions/static/js/2.ee85d012.chunk.js",
+    "static/js/2.ee85d012.chunk.js.map": "/dstech-solutions/static/js/2.ee85d012.chunk.js.map",
     "index.html": "/dstech-solutions/index.html",
-    "precache-manifest.bd5f5e550b879357aa7ae4046ff637ae.js": "/dstech-solutions/precache-manifest.bd5f5e550b879357aa7ae4046ff637ae.js",
+    "precache-manifest.6d8831889fb7d4eecd6d8773ec7be549.js": "/dstech-solutions/precache-manifest.6d8831889fb7d4eecd6d8773ec7be549.js",
     "service-worker.js": "/dstech-solutions/service-worker.js",
     "static/css/2.f18effba.chunk.css.map": "/dstech-solutions/static/css/2.f18effba.chunk.css.map",
     "static/css/main.e81a1b15.chunk.css.map": "/dstech-solutions/static/css/main.e81a1b15.chunk.css.map",
-    "static/js/2.d88e11dd.chunk.js.LICENSE.txt": "/dstech-solutions/static/js/2.d88e11dd.chunk.js.LICENSE.txt",
+    "static/js/2.ee85d012.chunk.js.LICENSE.txt": "/dstech-solutions/static/js/2.ee85d012.chunk.js.LICENSE.txt",
+    "static/media/Suraj.jpg": "/dstech-solutions/static/media/Suraj.dd72c5bc.jpg",
     "static/media/android.jpeg": "/dstech-solutions/static/media/android.19a2e0ea.jpeg",
     "static/media/app.jpeg": "/dstech-solutions/static/media/app.70cea92a.jpeg",
+    "static/media/darshan.jpg": "/dstech-solutions/static/media/darshan.08f10525.jpg",
     "static/media/digital.jpeg": "/dstech-solutions/static/media/digital.ac8f6f9a.jpeg",
-    "static/media/hero-img.png": "/dstech-solutions/static/media/hero-img.619f0cc8.png",
     "static/media/img2.svg": "/dstech-solutions/static/media/img2.e981619f.svg",
     "static/media/marketing.jpg": "/dstech-solutions/static/media/marketing.2eed95a2.jpg",
     "static/media/s1.jpg": "/dstech-solutions/static/media/s1.1192a86d.jpg",
@@ -27,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.14aa7398.js",
     "static/css/2.f18effba.chunk.css",
-    "static/js/2.d88e11dd.chunk.js",
+    "static/js/2.ee85d012.chunk.js",
     "static/css/main.e81a1b15.chunk.css",
-    "static/js/main.92e857f3.chunk.js"
+    "static/js/main.01335468.chunk.js"
   ]
 }
